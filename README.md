@@ -45,6 +45,23 @@ Run the app:
 
 python app.py
 
+🧪 Input Fields (on the web app)
+
+| Field                    | Description                          |
+| ------------------------ | ------------------------------------ |
+| Age                      | Patient's age                        |
+| Anaemia                  | 1 if the patient has anaemia, else 0 |
+| Creatinine Phosphokinase | CPK enzyme level                     |
+| Diabetes                 | 1 if diabetic                        |
+| Ejection Fraction        | % of blood leaving the heart         |
+| High BP                  | 1 if high blood pressure             |
+| Platelets                | Platelet count                       |
+| Serum Creatinine         | Blood creatinine level               |
+| Serum Sodium             | Blood sodium level                   |
+| Sex                      | 1 = Male, 0 = Female                 |
+| Smoking                  | 1 if smoker                          |
+| Time                     | Follow-up period (in days)           |
+
 
 
 
