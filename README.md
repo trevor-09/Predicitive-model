@@ -34,5 +34,14 @@ Install the required Python libraries:
 ```bash
 pip install flask numpy scikit-learn
 
+▶️ Running the App Locally
+Clone this repository
+
+Make sure model.pkl and app.py are in the root folder
+
+Place index.html inside a folder named templates/
+
+Run the app:
+
 
 
