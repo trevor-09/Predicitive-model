@@ -43,5 +43,8 @@ Place index.html inside a folder named templates/
 
 Run the app:
 
+python app.py
+
+
 
 
