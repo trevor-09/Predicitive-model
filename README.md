@@ -14,4 +14,11 @@ This project is part of the **DevTown Predictive Modelling Bootcamp**, where we 
 ---
 
 ## 📁 Project Structure
+HeartFailurePredictor/
+│
+├── model.pkl                      ← Trained ML model
+├── app.py                         ← Flask backend (uses model.pkl)
+└── templates/
+    └── index.html                 ← Your custom HTML with embedded CSS
+
 
