@@ -23,3 +23,16 @@ HeartFailurePredictor/
 └── model_training.ipynb # Jupyter Notebook for model training (optional)
 
 
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+Install the required Python libraries:
+
+```bash
+pip install flask numpy scikit-learn
+
+
+
